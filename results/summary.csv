@@ -1,0 +1,10 @@
+,claude-haiku-5-5,claude-sonnet-5-5
+Oppdagede angrep,78/89 (88%),84/89 (94%)
+Oversette angrep,11,5
+Avfeid støy,50/61 (82%),56/61 (92%)
+Falske eskaleringer,11,5
+Presisjon,88%,94%
+Riktig taktikk,65%,68%
+Sek/alarm,4.8,5.1
+USD/alarm,0.0005,0.0072
+USD per 10 000 alarmer,5.08,72.24

@@ -1,0 +1,33 @@
+model,alert_id,label,pred,confidence,true_tactic
+claude-haiku-5-5,A011,malicious,benign,medium,Credential Access
+claude-haiku-5-5,A031,malicious,benign,medium,Defense Evasion
+claude-haiku-5-5,A035,malicious,benign,medium,Execution
+claude-haiku-5-5,A045,malicious,benign,medium,Execution
+claude-haiku-5-5,A047,malicious,benign,medium,Lateral Movement
+claude-haiku-5-5,A049,malicious,benign,medium,Lateral Movement
+claude-haiku-5-5,A055,malicious,benign,medium,Lateral Movement
+claude-haiku-5-5,A090,malicious,benign,medium,Privilege Escalation
+claude-haiku-5-5,A093,malicious,benign,medium,Privilege Escalation
+claude-haiku-5-5,A095,malicious,benign,low,Privilege Escalation
+claude-haiku-5-5,A096,malicious,benign,medium,Privilege Escalation
+claude-haiku-5-5,B013,benign,malicious,high,
+claude-haiku-5-5,B016,benign,malicious,medium,
+claude-haiku-5-5,B018,benign,malicious,medium,
+claude-haiku-5-5,B023,benign,malicious,medium,
+claude-haiku-5-5,B027,benign,malicious,medium,
+claude-haiku-5-5,B029,benign,malicious,medium,
+claude-haiku-5-5,B039,benign,malicious,medium,
+claude-haiku-5-5,B042,benign,malicious,low,
+claude-haiku-5-5,B044,benign,malicious,medium,
+claude-haiku-5-5,B048,benign,malicious,medium,
+claude-haiku-5-5,B054,benign,malicious,low,
+claude-sonnet-5-5,A022,malicious,benign,medium,Defense Evasion
+claude-sonnet-5-5,A031,malicious,benign,medium,Defense Evasion
+claude-sonnet-5-5,A047,malicious,benign,medium,Lateral Movement
+claude-sonnet-5-5,A049,malicious,benign,medium,Lateral Movement
+claude-sonnet-5-5,A055,malicious,benign,medium,Lateral Movement
+claude-sonnet-5-5,B013,benign,malicious,medium,
+claude-sonnet-5-5,B016,benign,malicious,medium,
+claude-sonnet-5-5,B018,benign,malicious,medium,
+claude-sonnet-5-5,B023,benign,malicious,low,
+claude-sonnet-5-5,B029,benign,malicious,low,

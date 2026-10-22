@@ -65,6 +65,10 @@ A single clean Windows 10 machine produced **47,935 alerts in two days**, none o
 - **Some tactics are thin:** Discovery and Command and Control have only two alerts each.
 - **Single run:** each model was run once. Repeated runs would show how much the results vary.
 
+## How this was built
+
+The code in this repository was generated with Claude and validated by me: I ran every step, checked the outputs against the data and reviewed the results.
+
 ## Tech stack
 
 Python, pandas, matplotlib, Anthropic Python SDK (structured outputs), Hayabusa, Sigma
